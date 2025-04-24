@@ -3,6 +3,6 @@ DevOps engineer by trade, crypto-native by passion. I automate everything I touc
 
 CKA certified, AWS solution Architect
 
-> Working for Avail as a Devops Engineer > https://www.availproject.org/
-> Worked as a solution architect (infra side) for DEQ (a liquid staking protocol for avail on eth) > https://deq.fi/
-> Trying to do my part best before I gracefully shutdown 🫡
+ * Working for Avail as a Devops Engineer > https://www.availproject.org/
+ * Worked as a solution architect (infra side) for DEQ (a liquid staking protocol for avail on eth) > https://deq.fi/
+ * Trying to do my part best before I gracefully shutdown 🫡
