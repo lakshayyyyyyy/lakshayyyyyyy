@@ -1,4 +1,4 @@
-###👨‍💻 About Me
+👨‍💻 About Me
 DevOps engineer by trade, crypto-native by passion. I automate everything I touch — from cloud infra to blockchain nodes. Deep into Kubernetes, CI/CD, Cloud-Infra & monitoring. If it's scalable, secure, and self-healing, I'm probably building it.
 
 CKA certified, AWS solution Architect
